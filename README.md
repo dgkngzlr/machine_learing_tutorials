@@ -1,2 +1,2 @@
 # machine_learing_tutorials
-It is an practice for learning machine learning consept.
+It is a practice for learning machine learning consept.
